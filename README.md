@@ -1,2 +1,3 @@
 # KenaKata
-A web project
+
+A web project about e-commerce site...
